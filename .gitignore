@@ -3,6 +3,7 @@
 
 ### DocFx ###
 .cache
+_exported_templates/
 
 ### VisualStudioCode ###
 .vscode/*
